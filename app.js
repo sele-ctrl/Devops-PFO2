@@ -50,7 +50,7 @@ app.get("/vista-turnos", async (req, res) => {
 
 
 app.get("/", (req, res) => {
-  res.send("Huellitas Felices");
+  res.render("index");
 });//prueba http://localhost:3000/
 
 app.listen(PORT, () => {

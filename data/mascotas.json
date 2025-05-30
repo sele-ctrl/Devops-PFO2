@@ -7,5 +7,14 @@
     "edad": 3,
     "zona": "Palermo",
     "duenio": "Selene"
+  },
+  {
+    "id": 1748641065444,
+    "nombre": "pepit",
+    "especie": "gato",
+    "raza": "siberiano",
+    "edad": 3,
+    "zona": "Palermo",
+    "duenio": "Selene"
   }
 ]
